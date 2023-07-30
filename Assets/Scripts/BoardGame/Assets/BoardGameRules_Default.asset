@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1056a1cd44844afc8ab1eab96f8f9359, type: 3}
+  m_Name: BoardGameRules_Default
+  m_EditorClassIdentifier: 
+  <totalTileCount>k__BackingField: 75
+  <totalPlayableTileCount>k__BackingField: 3
+  <boardSize>k__BackingField: {x: 7, y: 7}
+  <playableTiles>k__BackingField:
+  - {fileID: 11400000, guid: e3e9c0c70cf67b44682db811aae5f799, type: 2}
+  - {fileID: 11400000, guid: 83911a695ef672a49873eae2f6987e5a, type: 2}
+  - {fileID: 11400000, guid: ae87d1aa6ed614a44a42b2d1fe72c8e9, type: 2}
+  - {fileID: 11400000, guid: 772c7cf1341a8954083aaf1e1b3bde4d, type: 2}
+  - {fileID: 11400000, guid: 997692fe846773046bc5ec9c7d336398, type: 2}
+  <startingTile>k__BackingField: {fileID: 11400000, guid: 7f53e611acbc0eb49926641ab0a3d5b3, type: 2}
